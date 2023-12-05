@@ -6,7 +6,6 @@ public class AgenteSaude extends Pessoa {
 	
 	public AgenteSaude(String nome, String sexo, String cpf, LocalDate dataNascimento) {
 		super(nome, sexo, cpf, dataNascimento);
-		// TODO Auto-generated constructor stub
 	}
 	private String especialidade, idiomas;
 	private int tempoDeExperiencia;

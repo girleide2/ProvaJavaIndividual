@@ -2,6 +2,7 @@ package Hospital;
 
 public class Urgência {
 	private Medico medicoResponsavel;
+	private Paciente pacientePlantonista; 
 	
 public static void dadosUrgencia() {
 		

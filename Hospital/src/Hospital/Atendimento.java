@@ -7,6 +7,6 @@ public class Atendimento {
 	}
 	
 	public static void AdcionaAtendimento() {
-		// adiciona o paciente da triagem a lista do atendimento indicado pela triagem
+		// adiciona o paciente lista do atendimento indicado pela triagem
 	}
 }
